@@ -1,0 +1,88 @@
+{
+    "intentos": 25,
+    "filas": 5,
+    "columnas": 6,
+    "tiempo": 70,
+    "memorama": [
+        {
+            "label": "Beagle",
+            "img": "https:\/\/images.dog.ceo\/breeds\/beagle\/n02088364_16339.jpg",
+            "description": "Not only is the Beagle an excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and'¿thanks to its pleading expression'¿cute. They were bred to hunt in packs, so they enjoy company and are generally easygoing. There are two Beagle varieties: those standing under 13 inches at the shoulder, and those between 13 and 15 inches"
+        },
+        {
+            "label": "Boxer",
+            "img": "https:\/\/images.dog.ceo\/breeds\/boxer\/n02108089_3236.jpg",
+            "description": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America's most popular dog breeds for a very long time. A well-made Boxer in peak condition is an awesome sight. A male can stand as high as 25 inches at the shoulder; females run smaller. Their muscles ripple beneath a short, tight-fitting coat"
+        },
+        {
+            "label": "Bulldog",
+            "img": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/n02096585_6653.jpg",
+            "description": "Kind but courageous, friendly but dignified, the Bulldog is a thick-set, low-slung, well-muscled bruiser whose 'sourmug' face is the universal symbol of courage and tenacity. These docile, loyal companions adapt well to town or country."
+        },
+        {
+            "label": "Bullterrier",
+            "img": "https:\/\/images.dog.ceo\/breeds\/bullterrier-staffordshire\/n02093256_5808.jpg",
+            "description": "Among the most comical and mischievous citizens of dogdom, the Bull Terrier is playful and endearing, sometimes stubborn, but always devoted."
+        },
+        {
+            "label": "Chihuahua",
+            "img": "https://soyunperro.com/wp-content/uploads/2019/11/Chihuahua-en-el-jard%C3%ADn.jpg",
+            "description": "The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing 'purse dogs' stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times. The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds"
+        },
+        {
+            "label": "Corgi",
+            "img": "https://images.dog.ceo//breeds//corgi-cardigan//n02113186_7308.jpg",
+            "description": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one the world's most popular herding breeds. At 10 to 12 inches at the shoulder and 27 to 30 pounds, a well-built male Pembroke presents a big dog in a small package"
+        },
+        {
+            "label": "Dalmatian",
+            "img": "https://images.dog.ceo//breeds//dalmatian//cooper1.jpg",
+            "description": "The dignified Dalmatian, dogdom's citizen of the world, is famed for his spotted coat and unique job description. During their long history, these 'coach dogs' have accompanied the horse-drawn rigs of nobles, gypsies, and firefighters. The Dalmatian's delightful, eye-catching spots of black or liver adorn one of the most distinctive coats in the animal kingdom. Beneath the spots is a graceful, elegantly proportioned trotting dog standing between 19 and 23 inches at the shoulder"
+        },
+        {
+            "label": "Doberman",
+            "img": "https://images.dog.ceo//breeds//doberman//n02107142_6383.jpg",
+            "description": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs"
+        },
+        {
+            "label": "Golden Retriever",
+            "img": "img/golden-retriever.jpg",
+            "description": "The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America's most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work. The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name"
+        },
+        {
+            "label": "Husky",
+            "img": "https://images.dog.ceo//breeds//husky//n02110185_10955.jpg",
+            "description": "Siberian Husky, a thickly coated, compact sled dog of medium size and great endurance, was developed to work in packs, pulling light loads at moderate speeds over vast frozen expanses. Sibes are friendly, fastidious, and dignified. The graceful, medium-sized Siberian Husky's almond-shaped eyes can be either brown or blue'¿and sometimes one of each'¿and convey a keen but amiable and even mischievous expression"
+        },
+        {
+            "label": "Pitbull",
+            "img": "https://i.pinimg.com/564x/4b/91/e1/4b91e1dcc4cd28407f83337e9f3d27cd.jpg",
+            "description": "The American Pit Bull is a companion and family dog breed. Originally bred to “bait” bulls, the breed evolved into all-around farm dogs, and later moved into the house to become “nanny dogs” because they were so gentle around children"
+        },
+        {
+            "label": "Poodle",
+            "img": "https://media.istockphoto.com/photos/white-poodle-dog-on-green-grass-field-picture-id520646148?k=20&m=520646148&s=612x612&w=0&h=CpM8cnZEmGiPZUrYdwpjUvdjvpt3WHQMRciTxbHUkaI=",
+            "description": "Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdom¿s true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons"
+        },
+        {
+            "label": "Pug",
+            "img": "https://media-be.chewy.com/wp-content/uploads/2021/05/27140116/Pug_FeaturedImage-1024x615.jpg",
+            "description": "Once the mischievous companion of Chinese emperors, and later the mascot of Holland's royal House of Orange, the small but solid Pug is today adored by his millions of fans around the world. Pugs live to love and to be loved in return. The Pug's motto is the Latin phrase 'multum in parvo' (a lot in a little)'¿an apt description of this small but muscular breed"
+        },
+        {
+            "label": "Schnauzer",
+            "img": "https://live.hsmob.io/storage/images/wakyma.com/wakyma.com_raza-de-perro-schnauzer.jpg",
+            "description": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you've got an ideal family dog. Stocky, robust little dogs standing 12 to 14 inches, Miniature Schnauzers were bred down from their larger cousins, Standard Schnauzers"
+        },
+        {
+            "label": "Xoloitzcuintle",
+            "img": "img/xoloitzcuintle.jpg",
+            "description": "The 3,000-year-old Xoloitzcuintli (pronounced \"show-low-eats-QUEENT-lee\"), the ancient Aztec dog of the gods, is today a loving companion and vigilant watchdog. The alert and loyal Xolo comes in three sizes, and in either hairless or coated varieties"
+        },
+        {
+            "label": "Pomeranian",
+            "img": "https://www.thesprucepets.com/thmb/MJ--9BJULRDvodDrmrqCxzYYIy4=/3504x2336/filters:fill(auto,1)/Pomeranian-GettyImages-1014940472-a6ba0030958a4bbba0eee3e982ee9bc6.jpg",
+            "description": "CHIHUAHUA PELUDO"
+        }
+    ]
+}
